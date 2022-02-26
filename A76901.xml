@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bloody news from Southwark: or, A perfect relation how the master of the Ship-Inne neer Deadman-place, was found barbarously kill'd upon his bed, on Tuesday the 15th of this instant February. And several other remarkable circumstances of the fact.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76901</idno>
+            <idno type="STC">Wing B3279A</idno>
+            <idno type="STC">ESTC R215324</idno>
+            <idno type="EEBO-CITATION">43663191</idno>
+            <idno type="OCLC">ocm 43663191</idno>
+            <idno type="VID">171921</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76901)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171921)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2600:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bloody news from Southwark: or, A perfect relation how the master of the Ship-Inne neer Deadman-place, was found barbarously kill'd upon his bed, on Tuesday the 15th of this instant February. And several other remarkable circumstances of the fact.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for D.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the Year 1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With Permission, Roger L'Estrange."</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Murder --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171921:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 110 -->
+            <p>BLOODY NEWS FROM Southwark: OR, A perfect RELATION How the Maſter of the Ship-Inne neer <hi>Deadman-place,</hi> was found barbarouſ<g ref="char:EOLhyphen"/>ly kill'd upon his Bed, on Tueſday the 15th of this Inſtant <hi>February.</hi>
+            </p>
+            <p>And ſeveral other remarkable Cir<g ref="char:EOLhyphen"/>cumſtances of the Fact.</p>
+            <p>With Permiſſion, <hi>Roger L'Eſtrange.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>D. M.</hi> in the Year 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:171921:2"/>
+            <!-- PDF PAGE 111 -->
+            <pb n="3" facs="tcp:171921:2"/>
+            <!-- PDF PAGE 111 -->
+            <head>BLOODY NEWS FROM Southwark, etc.</head>
+            <p>MR. <hi>S.</hi> the perſon that is thus unhap<g ref="char:EOLhyphen"/>pily come to an untimely end, has for about five or ſix years laſt paſt kept the Ship-Inne in <hi>Southwark</hi> neer <hi>Deadmans-place,</hi> and in all things demeaned himſelf ſo juſtly and civilly, that he was generally beloved and eſteemed of amongſt his Neighbours as a very honeſt fair-con<g ref="char:EOLhyphen"/>ditioned man. He had been married many years to his wife, and by her had ſeveral Children; but there is now onely one (a Daughter) ſurviving, of ſeven or eight years of Age. His Wife was always counted a civil woman, as far as I can hear by the Neighbours; and they ſeem'd to live very
+<pb n="4" facs="tcp:171921:3"/>
+               <!-- PDF PAGE 112 -->lovingly together; without any reflections on her Reputations, before this unfortunate Accident.</p>
+            <p>Beſides the Inne, they kept a Strongwater-ſhop in the <hi>Borough</hi> or <hi>High-ſtreet</hi> in <hi>Southwark;</hi> and this <hi>Tueſday</hi> (the laſt day of his life in this world) he had been a conſiderable part of the day there drinking with his Wife and a woman (who is now her Fellow priſoner upon ſuſpition, ſaid to be her Kinſwoman, whoſe Dwelling was in <hi>Fet<g ref="char:EOLhyphen"/>ter-lane, London</hi>) and 'tis reported and alleadg<g ref="char:EOLhyphen"/>ed by them, that he was ſomewhat in drink, and that thereupon his Wife ſent this other woman home with him to get him to lie down and ſleep.</p>
+            <p>For about two or three of the clock, Mr. <hi>S.</hi> and this Mrs. <hi>L.</hi> came home together; the Servants, that is to ſay, a Maid, the Tapſter, and the Hoſtler being then at Dinner, they paſt through the Room where they were, and went into a low Room where he uſually lay, and one of them ſhut the door after them. And this woman ſtaid with him a conſiderable time, about an hour, as neer as they can remember. And the Maid ſays, that having ſome occaſion into a Buttery joyning to her Maſters Lodging-room, ſhe opened that door, but they were not there, but gone out of that Room into another darkiſh Room beyond it, where there was a bed; but he never uſed to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie down there, but was afterwards found dead upon that further bed.</p>
+            <p>
+               <pb n="5" facs="tcp:171921:3"/>
+               <!-- PDF PAGE 112 -->
+After this Mrs. <hi>L.</hi> came forth of their Maſters Room, and bolted the door after her on the out<g ref="char:EOLhyphen"/>ſide, telling the Maid, that ſhe had laid her Maſter to ſleep, and covered him up warm, and laid two Pillows upon his feet, and bid her not to go in for fear of diſturbing him; and if any body came to ſpeak with him, not to call him, but ſay he was gone abroad. And the very ſame or<g ref="char:EOLhyphen"/>der ſhe left the Tapſter at the door as ſhe went forth, and ſo went her way. And the Servants according to her directions did not go neer him; and though they were but the breadth of one Room diſtant from him moſt part of the time af<g ref="char:EOLhyphen"/>terwards, they heard no noiſe or diſturbance at all, but concluded him faſt aſleep.</p>
+            <p>About ſeven a Clock, or ſomewhat before, this woman came to the houſe again, and ſaid to the Servants, ſhe would go in and ſee if their Maſter were awake yet or not; and ſo open'd the outward door and, went through his Lodg<g ref="char:EOLhyphen"/>ing-room into the other Room where he lay, and immediately came out again, and calling to the Maid, told her, ſhe thought her Maſter was dead or kill'd; whereupon the Maid and Tapſter went in again with her, and found him lying dead upon the bed, the greateſt part of his body covered o<g ref="char:EOLhyphen"/>ver with the bed clothes, and two Pillows on his feet, as ſhe had ſaid ſhe left him, but very ſtrange<g ref="char:EOLhyphen"/>ly wounded about the Neck and Head; one very large wound or ſlaſh behind his Ear down to<g ref="char:EOLhyphen"/>wards his Throat, another before his Ear upon
+<pb n="4" facs="tcp:171921:4"/>
+               <!-- PDF PAGE 113 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:171921:4"/>
+               <!-- PDF PAGE 113 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:171921:5"/>
+               <!-- PDF PAGE 114 -->the Cheek, and a third behind upon his Neck. A great quantity of blood lay in the floor of the Room at ſome diſtance from the bed, and not very much upon the bed-clothes. The blood had run a great deal upon his right Arm, which lay hanging down over the bed, and his left hand placed upon his breaſt was very much bruiſed, ſo that it lookt black.</p>
+            <p>This unexpected ghaſtly ſight much affrighted the Maid and Tapſter, nor did the other woman ſeem leſs concerned: but ſeeing a Piſtol lie upon a kind of a Cupboard or Cheſt of Drawers in the ſame Room, though at ſome diſtance from the bed, they concluded that he had therewith mur<g ref="char:EOLhyphen"/>thered himſelf, and preſently ſent to the ſhop to his wife to have her come home; who upon the ſad news expreſt ſome trouble, but (as many peo<g ref="char:EOLhyphen"/>ple thought) not ſo much as might be expected upon ſuch a diſmal occaſion.</p>
+            <p>However, concluding with her Kinſwoman that he had murthered himſelf, and conſequently that his Goods would be ſeized upon as forfeited, they reſolved to keep it as private as they could, till they had got away the moſt conſiderable of them; and accordingly fell to work: But the matter could not be carried ſo cloſely, but no<g ref="char:EOLhyphen"/>tice of it was given to the Bayliff of the Borough, to whom it ſeems ſuch forfeitures belong, who forthwith came to the houſe, and open'd a Vein of the body, and conſidering all Circumſtances, 
+<pb n="7" facs="tcp:171921:5"/>
+               <!-- PDF PAGE 114 -->declared his opinion (though it ſeem'd contrary to his intereſt ſo to do) that he feared there was ſomething more in it than ſelf Murther, and that he doubted ſome other perſon or perſons had a hand in it; whereupon a Conſtable was ſent for, and Mrs. <hi>S.</hi> and her Kinſwoman, together, with the Maid, Tapſter, and Hoſtler, were all carried be<g ref="char:EOLhyphen"/>fore one of his Majeſties Juſtices of the Peace dwelling hard by, where the Maid and Tapſter related the truth of their knowledge in manner aforeſaid.</p>
+            <p>The woman relates, that her Husband for ſome time had been melancholy and diſcontented, and particularly that on Munday-night laſt he lay and could not ſleep, but ſighed moſt part of the night; which made her inquire of him the cauſe of his trouble; who anſwered her, that he was to pay ſeve<g ref="char:EOLhyphen"/>ral ſums of money, and could get none in; and that he ſhould be undone, and wiſht himſelf out of the world: and that on Friday laſt he bought ſome Bullets for this Piſtol now found with him in the Room; and being ask'd where, ſhe anſwered <hi>Hounſditch,</hi> but ſome time afterwards ſhe ſaid it was in the <hi>Minories.</hi>
+            </p>
+            <p>There was found in the other womans Poc<g ref="char:EOLhyphen"/>ckets a Knife, which ſhe ſaid was her own, and alſo the dead mans Keys, ſilver Tobacco-box, and ſome Money of his; which ſhe alleadged ſhe took out of his Pocket after he was found dead, by his Wives conſent, and to ſecure them for her
+<pb n="8" facs="tcp:171921:6"/>
+               <!-- PDF PAGE 115 -->uſe; and being examined where ſhe was from the time ſhe put him to ſleep till night, ſhe an<g ref="char:EOLhyphen"/>ſwered, amongſt other places, at her Waſherwo<g ref="char:EOLhyphen"/>mands in St. <hi>Tooly-ſtreet,</hi> but that ſhe did not ſtay there at all; but the Waſherwoman being ſent for, affirmed that ſhe was there about half an hour, but denied that ſhe brought her any Linnen or other things.</p>
+            <p>In fine, after a long Examination, it appearing not probable that ſuch Wounds could be made by a Piſtol, as they pretended, or that he ſhould ſhoot himſelf, and the Servants not hear the Re<g ref="char:EOLhyphen"/>port; and ſeveral other Circumſtances ſeeming very doubtful and ſuſpitious, it was thought fit by the Magiſtrate to ſecure the two women; and accordingly they were the ſame night both ſent to the <hi>Marſhalſey</hi> (where the County-Goal is now kept) and the Servants bound over to give Evi<g ref="char:EOLhyphen"/>dence.</p>
+            <p>The matter yet ſeems dark and doubtful; but if any perſons are guilty of his death, 'tis not to be doubted but God in time will bring their wickedneſs to Light, at preſent his Wife and her Kinſwoman are in Cuſtody upon ſuſpition.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
